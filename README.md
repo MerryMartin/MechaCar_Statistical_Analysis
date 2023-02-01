@@ -21,7 +21,7 @@ I want to review the production data to identify potential trouble spots that mi
   * A slope of zero would mean that there is no relationship between the variables and mpg.  The null hypothesis is that the slope is not zero.  The overall p-value for the intercept is extremely small so we would reject the null hypothesis. Therefore, the slope of the linear model is not considered to be zero.  
  
 * Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
-  * R-squared is the percentage of the dependent variable variation that a linear model explains.  Since the r-squared number for the MechaCar dataset is .71, it would be considered an effective predicter for prototypes. 
+  * R-squared is the percentage of the dependent variable variation that a linear model explains.  Since the r-squared number for the MechaCar linear model is .71, it would be considered an effective predicter of mpg for prototypes. 
 
 
 ## Summary Statistics on Suspension Coils
