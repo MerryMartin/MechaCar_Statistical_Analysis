@@ -3,7 +3,7 @@ module 16
 
 ## Project Overview
 
-I need to review the production data to identify potential trouble spots that might help the manufacturing team at AutosRUs.  I have decided to use linear regression, summary statistics and t-tests to perform this analysis.  
+I want to review the production data to identify potential trouble spots that might help the manufacturing team at AutosRUs.  I have decided to use linear regression, summary statistics and t-tests to perform this analysis.  
 
 ## Linear Regression to Predict MPG
 ### Perform multiple linear regression analysis to identify which variables in the dataset predict the mpg of MechaCar prototypes.
