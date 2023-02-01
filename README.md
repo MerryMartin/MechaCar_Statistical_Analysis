@@ -54,7 +54,7 @@ I want to review the production data to identify potential trouble spots that mi
 ![lot3](https://user-images.githubusercontent.com/115426070/216190024-25b3651e-40fb-44c6-b7be-71ef96a39123.png)
 
 
-  * The null hypothesis is that the PSI across all lots is not statistically different from the population mean of 1500 pounds per square inch.  The p-values for all lots is .06 so I would fail to reject the null hypothesis, since the p-value is greater than .05.  The p-values for Lot1 and Lot2 are also greater than .05 so we would fail to reject the null hypothesis for these lots.  The p-value for Lot3 is .04 (below .05) so I would reject the null hypothesis for this lot.  
+  * The null hypothesis is that the PSI across all lots is not statistically different from the population mean of 1500 pounds per square inch.  The p-values for all lots combined is .06 so I would fail to reject the null hypothesis, since the p-value is greater than .05.  The p-values for Lot1 and Lot2 are also greater than .05 so I would fail to reject the null hypothesis for these lots.  The p-value for Lot3 is .04 (below .05) so I would reject the null hypothesis for this lot.  
 
 ## Study Design: MechaCar vs Competition
 ### Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, you’ll write a summary interpretation of the findings. 
